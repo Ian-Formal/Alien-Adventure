@@ -7,6 +7,7 @@ The project has always been something I want to make and improve since I heard a
 ## Modules, Packages and Environment
 To run, please check if you have installed all modules below:
  * pygame
+ * tkinter
 
 Ensure your python version is above or equilvalent to **python 3.10**
 
